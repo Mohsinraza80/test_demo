@@ -1,0 +1,220 @@
+Country	Code	Athlete	Sport
+Afghanistan	AFG	ASHFORTH  Albert	Biathlon
+Netherlands Antilles	AHO	BRYANT  Precy D 	Sport
+Albania	ALB	GOODRICH  Hunter	Biathlon
+Algeria	ALG	HACKNEY  Clement	Sport
+Andorra	AND	HOMBURGER  Henry A 	Biathlon
+Angola	ANG	HORTON  Edmund C	Sport
+Antigua and Barbuda	ANT	LIPSON  Howard S	Biathlon
+Australia and New Zealand	ANZ	MARTIN  Harry G	Sport
+Argentina	ARG	STEVENS  Curtis	Biathlon
+Armenia	ARM	STEVENS  Francis Paul	Sport
+Aruba	ARU	BRYANT  Precy D 	Biathlon
+American Samoa	ASA	HEATON  John	Sport
+Australia	AUS	HOMBURGER  Henry A 	Biathlon
+Austria	AUT	MARTIN  Harry G	Sport
+Azerbaijan	AZE	MINTON  Robert	Biathlon
+Bahamas	BAH	STEVENS  J  Hubert	Sport
+Bangladesh	BAN	ARTHUR  Adams	Biathlon
+Barbados	BAR	STEVENS  Curtis	Sport
+Burundi	BDI	CAPADRUTT  Reto	Biathlon
+Belgium	BEL	FONJALLAZ  Gaston	Sport
+Benin	BEN	FONJALLAZ  Gustave	Biathlon
+Bermuda	BER	FONJALLAZ  Ren«∏	Sport
+Bhutan	BHU	GEIER  Oscar	Biathlon
+Bosnia and Herzegovina	BIH	JENNY  Charles	Sport
+Belize	BIZ	KLOETTA  Antoine	Biathlon
+Belarus	BLR	STAUFFER  William	Sport
+Bohemia-CZECH	BOH	BALL  Rudolf	Biathlon
+Bolivia	BOL	HEINRICH  Alfred	Sport
+Botswana	BOT	HERKER  Erich	Biathlon
+Brazil	BRA	J«?NECKE  Gustav	Sport
+Bahrain	BRN	KORFF  Werner	Biathlon
+Brunei	BRU	LEINWEBER  Walter	Sport
+Bulgaria	BUL	R«?MER  Erich	Biathlon
+Burkina Faso	BUR	SCHR«?TTLE  Martin	Sport
+British West Indies 	BWI	SLEVOGT  Marquardt	Biathlon
+Central African Republic	CAF	STROBL  Georg	Sport
+Cambodia	CAM	COCKBURN  William George	Biathlon
+Canada	CAN	CROWLEY  Clifford	Sport
+Cayman Islands	CAY	DUNCANSON  Albert	Biathlon
+Congo	CGO	GARBUTT  George	Sport
+Chad	CHA	HINKEL  Roy	Biathlon
+Chile	CHI	LINDQUIST  C  Victor	Sport
+China	CHN	MALLOY  Norman	Biathlon
+Cote dIvoire	CIV	MONSON  Walter	Sport
+Cameroon	CMR	MOORE  Kenneth	Biathlon
+Congo  Dem Rep	COD	RIVERS  N Romeo	Sport
+Cook Islands	COK	SIMPSON  Harold	Biathlon
+Colombia	COL	SUTHERLAND  Hugh	Sport
+Comoros	COM	WAGNER  W  Stanley	Biathlon
+Cape Verde	CPV	WISE  J  Alliston	Sport
+Costa Rica	CRC	ANDERSON  Osborn	Biathlon
+Croatia	CRO	BENT  John Peale	Sport
+Cuba	CUB	CHASE  John Pierce	Biathlon
+Cyprus	CYP	COOKMAN  John Emery	Sport
+Czech Republic	CZE	EVERETT  Douglas Newton	Biathlon
+Denmark	DEN	FARRELL  Franklin	Sport
+Djibouti	DJI	FITZGERALD  Joseph	Biathlon
+Dominica	DMA	FRAZIER  Edward Hartwell	Sport
+Dominican Republic	DOM	GARRISON  John Bright	Biathlon
+Ecuador	ECU	HALLOCK  Gerard	Sport
+Egypt	EGY	LIVINGSTON  Robert Cambridge	Biathlon
+Eritrea	ERI	NELSON  Francis Augustus	Sport
+El Salvador	ESA	PALMER  Winthrop Hale	Biathlon
+Spain	ESP	SMITH  Gordon	Sport
+Estonia	EST	WILSON  Montgomery	Biathlon
+Ethiopia	ETH	SCH«?FER  Karl	Sport
+United Team of Germany 	EUA	GRAFSTR«?M  Gillis	Biathlon
+Unified Team	EUN	VINSON  Maribel	Sport
+Fiji	FIJ	HENIE  Sonja	Biathlon
+Finland	FIN	BURGER  Fritzi	Sport
+France	FRA	ROTTER  Emilia	Biathlon
+West Germany	FRG	SZOLLAS  Laszlo	Sport
+Micronesia	FSM	BRUNET  Andr«∏e	Biathlon
+Gabon	GAB	BRUNET  Pierre	Sport
+Gambia	GAM	BADGER  Sherwin	Biathlon
+United Kingdom	GBR	LOUGHRAN  Beatrix	Sport
+Guinea-Bissau	GBS	STACK  Frank	Biathlon
+East Germany	GDR	JAFFEE  Irving	Sport
+Georgia	GEO	BALLANGRUD  Ivar	Biathlon
+Equatorial Guinea	GEQ	LOGAN  William F 	Sport
+Germany	GER	SHEA  John A 	Biathlon
+Ghana	GHA	HURD  Alexander	Sport
+Greece	GRE	LOGAN  William F 	Biathlon
+Grenada	GRN	JAFFEE  Irving	Sport
+Guatemala	GUA	MURPHY  Edward	Biathlon
+Guinea	GUI	HURD  Alexander	Sport
+Guam	GUM	SHEA  John A 	Biathlon
+Guyana	GUY	EVENSEN  Bernt	Sport
+Haiti	HAI	SAARINEN  Veli	Biathlon
+Hong Kong	HKG	UTTERSTR«?M  Sven	Sport
+Honduras	HON	WIKSTR«?M  Axel	Biathlon
+Hungary	HUN	RUSTADSTUEN  Arne	Sport
+Indonesia	INA	SAARINEN  Veli	Biathlon
+India	IND	LIIKKANEN  V«œin«Ù	Sport
+IOP	IOP	VINJARENGEN  Hans	Biathlon
+Iran	IRI	GROTTUMSBRAATEN  Johan	Sport
+Ireland	IRL	STENEN  Ole	Biathlon
+Iraq	IRQ	WALBERG  Kaare	Sport
+Iceland	ISL	RUUD  Birger	Biathlon
+Israel	ISR	BECK  Hans	Sport
+Virgin Islands	ISV	CARDNO  James Farquhar	Biathlon
+Italy	ITA	DUGDALE  Gary	Sport
+British Virgin Islands	IVB	GREEN  Charles Patrick	Biathlon
+Jamaica	JAM	MCEVOY  Frederick James	Sport
+Jordan	JOR	BEERLI  Joseph	Biathlon
+Japan	JPN	BOUVIER  Charles	Sport
+Kazakhstan	KAZ	GARTMANN  Arnold	Biathlon
+Kenya	KEN	MUSY  Pierre	Sport
+Kyrgyzstan	KGZ	AICHELE  Hans	Biathlon
+Korea  South	KOR	B«?TIKOFER  Hans	Sport
+Saudi Arabia	KSA	CAPADRUTT  Reto	Biathlon
+Kuwait	KUW	FEIERABEND  Fritz	Sport
+Laos	LAO	COLGATE  Gilbert	Biathlon
+Latvia	LAT	LAWRENCE  Richard Webster	Sport
+Libya	LBA	BROWN  Ivan Elmore	Biathlon
+Liberia	LBR	WASHBOND  Alan M 	Sport
+Saint Lucia	LCA	BEERLI  Joseph	Biathlon
+Lesotho	LES	FEIERABEND  Fritz	Sport
+Lebanon	LIB	GARRISON  John Bright	Biathlon
+Liechtenstein	LIE	KAMMER  August	Sport
+Lithuania	LTU	LA BATTE  Philip William	Biathlon
+Luxembourg	LUX	LAX  John Charles	Sport
+Madagascar	MAD	MOONE  Thomas	Biathlon
+Morocco	MAR	ROSS  Eldridge Baker	Sport
+Malaysia	MAS	ROWE  Paul Edward	Biathlon
+Malawi	MAW	SHAUGHNESSY  Francis John	Sport
+Moldova	MDA	SMITH  Gordon	Biathlon
+Maldives	MDV	SPAIN  Francis Jones	Sport
+Mexico	MEX	STUBBS  Frank Raymond	Biathlon
+Mongolia	MGL	ARCHER  Alexander	Sport
+Macedonia	MKD	BORLAND  James Andrew	Biathlon
+Mali	MLI	BRENCHLEY  Edgar	Sport
+Malta	MLT	CHAPPELL  James	Biathlon
+Montenegro	MNE	COWARD  John	Sport
+Monaco	MON	DAILLEY  Gordon Debenham	Biathlon
+Mozambique	MOZ	DAVEY  John Gerald	Sport
+Mauritius	MRI	ERHARDT  Carl	Biathlon
+Mauritania	MTN	FOSTER  James	Sport
+Burma	MYA	KILPATRICK  John	Biathlon
+Namibia	NAM	STINCHCOMBE  Archibald	Sport
+Nicaragua	NCA	WYMAN  Robert	Biathlon
+Netherlands	NED	DEACON  Maxwell Arnold	Sport
+Nepal	NEP	FARGUHARSON  Hugh	Biathlon
+Nigeria	NGR	FARMER-HORN  Kenneth	Sport
+Niger	NIG	HAGGARTY  James	Biathlon
+Norway	NOR	KITCHEN  Walter	Sport
+Nauru	NRU	MILTON  Raymond	Biathlon
+New Zealand	NZL	MOORE  Francis	Sport
+Oman	OMA	MURRAY  Herman	Biathlon
+Pakistan	PAK	NASH  Arthur	Sport
+Panama	PAN	NEVILLE  David John	Biathlon
+Paraguay	PAR	SINCLAIR  Alexander	Sport
+Peru	PER	ST GERMAIN  Ralph	Biathlon
+Philippines	PHI	THOMSON  William	Sport
+Palestine  Occupied Territories	PLE	KASPAR  Felix	Biathlon
+Palau	PLW	SCH«?FER  Karl	Sport
+Papua New Guinea	PNG	BAIER  Ernst	Biathlon
+Poland	POL	HULTEN  Vivi-Anne	Sport
+Portugal	POR	HENIE  Sonja	Biathlon
+Korea North	PRK	COLLEDGE  Cecilia	Sport
+Puerto Rico	PUR	ROTTER  Emilia	Biathlon
+Qatar	QAT	SZOLLAS  Laszlo	Sport
+Russian Empire	RE	BAIER  Ernst	Biathlon
+Romania	ROM	HERBER  Maxi	Sport
+Romania 68	ROU	PAUSIN  Erik	Biathlon
+South Africa	RSA	PAUSIN  Ilse	Sport
+Russia	RUS	STIEPL  Max	Biathlon
+Rwanda	RWA	BALLANGRUD  Ivar	Sport
+Samoa	SAM	WASENIUS  Birger	Biathlon
+Serbia	SCG	WASENIUS  Birger	Sport
+Senegal	SEN	MATHISEN  Charles	Biathlon
+Seychelles	SEY	BALLANGRUD  Ivar	Sport
+Singapore-12	SGP	OJALA  Antero	Biathlon
+Singapore	SIN	BALLANGRUD  Ivar	Sport
+Saint Kitts and Nevis	SKN	WASENIUS  Birger	Biathlon
+Sierra Leone	SLE	FREISINGER  Leo	Sport
+Slovenia	SLO	BALLANGRUD  Ivar	Biathlon
+San Marino	SMR	KROG  Georg	Sport
+Solomon Islands	SOL	ALLAIS  Emile	Biathlon
+Somalia	SOM	PFN«?R  Franz	Sport
+Serbia-8-12	SRB	LANTSCHNER  Gustav	Biathlon
+Sri Lanka	SRI	SCHOU-NILSEN  Laila	Sport
+Sao Tome and Principe	STP	CRANZ  Christel	Biathlon
+Sudan	SUD	GRASEGGER  K«œthe	Sport
+Switzerland	SUI	NIEMI  Pekka	Biathlon
+Suriname	SUR	LARSSON  Erik August	Sport
+Slovakia	SVK	HAGEN  Oddbjorn	Biathlon
+Sweden	SWE	BERGER  John	Sport
+Swaziland	SWZ	H«?GGBLAD  Artur	Biathlon
+Syria	SYR	LARSSON  Erik August	Sport
+Tanzania	TAN	MATSBO  Martin	Biathlon
+Czechslovakia	TCH	JALKANEN  Kalle	Sport
+Tonga	TGA	KARPPINEN  Klaus	Biathlon
+Thailand	THA	L«?HDE  Matti	Sport
+Tajikistan	TJK	NURMELA  Sulo	Biathlon
+Turkmenistan	TKM	BRODAHL  Sverre	Sport
+East Timor 	TLS	HAGEN  Oddbjorn	Biathlon
+Togo	TOG	HOFFSBAKKEN  Olaf	Sport
+Taiwan	TPE	IVERSEN  Bjarne	Biathlon
+Trinidad and Tobago	TRI	ENGLUND  Nils-Joel	Sport
+Trinidad Tobago	TTO	WIKLUND  Elis	Biathlon
+Tunisia	TUN	WIKSTR«?M  Axel	Sport
+Turkey	TUR	BRODAHL  Sverre	Biathlon
+United Arab Emirates	UAE	HAGEN  Oddbjorn	Sport
+Uganda	UGA	HOFFSBAKKEN  Olaf	Biathlon
+Ukraine	UKR	ANDERSEN  Reidar	Sport
+Soviet Union	URS	RUUD  Birger	Biathlon
+Uruguay	URU	ERIKSSON  Sven	Sport
+United States	USA	BICKFORD  James John	Biathlon
+Uzbekistan	UZB	DUPREE  Donald	Sport
+Vanuatu	VAN	DUPREE  William	Biathlon
+Venezuela	VEN	HICKS  Thomas	Sport
+Vietnam	VIE	D'AMICO  William	Biathlon
+Saint Vincent 	VIN	MARTIN  Patrick Henry	Sport
+Yemen	YEM	RIMKUS  Edward	Biathlon
+Yugosalvia	YUG	TYLER  Francis William	Sport
+Zambia	ZAM	HOUBEN  Max	Biathlon
+Zimbabwe	ZIM	MANSVELD  Freddy	Sport
+Mixed Team	ZZX	MOUVET  Jacques	Biathlon

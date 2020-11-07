@@ -1,0 +1,246 @@
+Algeria,ALG,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Australia,AUS,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Belgium,BEL,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Benin,BEN,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Equatorial Guinea,GEQ,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Germany,GER,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Guatemala,GUA,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Kuwait,KUW,STR€?MSTAD  Thoralf,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Libya,LBA,STR€?MSTAD  Thoralf,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Luxembourg,LUX,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Macedonia,MKD,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Mauritania,MTN,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Burma,MYA,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Togo,TOG,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Taiwan,TPE,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Turkey,TUR,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Algeria,ALG,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Australia,AUS,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Belgium,BEL,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Benin,BEN,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Equatorial Guinea,GEQ,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Germany,GER,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Guatemala,GUA,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Kuwait,KUW,STR€?MSTAD  Thoralf,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Libya,LBA,STR€?MSTAD  Thoralf,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Luxembourg,LUX,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Macedonia,MKD,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Mauritania,MTN,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Burma,MYA,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Togo,TOG,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Taiwan,TPE,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Turkey,TUR,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Canada,SUI,FONJALLAZ  RenÇ¸,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Congo  Dem Rep,GER,JÇ?NECKE  Gustav,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Comoros,GER,RÇ?MER  Erich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Cape Verde,GER,SCHRÇ?TTLE  Martin,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Ghana,AUT,SCHÇ?FER  Karl,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Greece,SWE,GRAFSTRÇ?M  Gillis,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Haiti,FRA,BRUNET  AndrÇ¸e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Japan,SWE,UTTERSTRÇ?M  Sven,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Kazakhstan,SWE,WIKSTRÇ?M  Axel,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Korea  South,FIN,LIIKKANEN  VÇÏinÇô,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Benin,USA,HOMBUR123  Henry A ,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Botswana,USA,HOMBUR123  Henry A ,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Canada,SUI,FONJALLAZ  RenÇ¸,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Congo  Dem Rep,123,JÇ?NECKE  Gustav,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Comoros,123,RÇ?MER  Erich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Cape Verde,123,SCHRÇ?TTLE  Martin,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Micronesia,USA,FITZ123ALD  Joseph,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+United Kingdom,USA,HALLOCK  123ard,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Ghana,AUT,SCHÇ?FER  Karl,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Greece,SWE,GRAFSTRÇ?M  Gillis,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Guinea,AUT,BUR123  Fritzi,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Haiti,FRA,BRUNET  AndrÇ¸e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Honduras,USA,BAD123  Sherwin,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Japan,SWE,UTTERSTRÇ?M  Sven,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Kazakhstan,SWE,WIKSTRÇ?M  Axel,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Korea  South,FIN,LIIKKANEN  VÇÏinÇô,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Libya,NOR,RUUD  Bir123,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Algeria,ALG,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Australia,AUS,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Belgium,BEL,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Benin,BEN,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Equatorial Guinea,GEQ,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Germany,GER,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Guatemala,GUA,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Kuwait,KUW,STR€?MSTAD  Thoralf,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Libya,LBA,STR€?MSTAD  Thoralf,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Luxembourg,LUX,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Macedonia,MKD,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Mauritania,MTN,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Burma,MYA,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Togo,TOG,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Taiwan,TPE,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Turkey,TUR,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Algeria,ALG,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Australia,AUS,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Belgium,BEL,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Benin,BEN,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Equatorial Guinea,GEQ,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Germany,GER,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Guatemala,GUA,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Kuwait,KUW,STR€?MSTAD  Thoralf,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Libya,LBA,STR€?MSTAD  Thoralf,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Luxembourg,LUX,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Macedonia,MKD,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Mauritania,MTN,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Burma,MYA,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Togo,TOG,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Taiwan,TPE,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Turkey,TUR,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Algeria,ALG,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Australia,AUS,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Belgium,BEL,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Benin,BEN,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Equatorial Guinea,GEQ,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Germany,GER,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Guatemala,GUA,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Kuwait,KUW,STR€?MSTAD  Thoralf,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Libya,LBA,STR€?MSTAD  Thoralf,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Luxembourg,LUX,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Macedonia,MKD,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Mauritania,MTN,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Burma,MYA,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Togo,TOG,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Taiwan,TPE,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Turkey,TUR,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Algeria,ALG,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Australia,AUS,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Belgium,BEL,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Benin,BEN,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Equatorial Guinea,GEQ,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Germany,GER,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Guatemala,GUA,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Kuwait,KUW,STR€?MSTAD  Thoralf,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Libya,LBA,STR€?MSTAD  Thoralf,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Luxembourg,LUX,VANDELLE  Andr€,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Macedonia,MKD,MORTIAUX  Ren€÷,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Mauritania,MTN,SCHL€ PPI  Alfred,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Burma,MYA,SCHL€ PPI  Heinrich,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Togo,TOG,GRAFSTR€?M  Gillis,Sport,-1071607778,0,Row yielded no match during lookup.
+
+Taiwan,TPE,B€?CKL  Willy,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
+Turkey,TUR,BRUNET  Andr€÷e,Biathlon,-1071607778,0,Row yielded no match during lookup.
+
