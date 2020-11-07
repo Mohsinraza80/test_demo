@@ -1,0 +1,18 @@
+In this Test Package
+1.Winter.csv  is divided into four files with just four columns and saved in Winter Folder.
+2.Extract Data from these Files and Two Tables having Relationship.
+
+3.At deployment of Package,It shows Failed.May be because of TestSSIS.dtsConfig (I got problem in creating this file)
+because of it was not created by wizard  .I Copied from another file 
+to Test whole process.
+ 
+ 
+""
+<Configuration ValueType="String" Path="\Package.Variables[User::varFolderName].Properties[Value]" ConfiguredType="Property">
+
+<ConfiguredValue>C:\FinalTest Sample Data</ConfiguredValue>
+
+</Configuration>
+
+""
+ 
